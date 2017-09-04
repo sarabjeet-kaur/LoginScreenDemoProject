@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginScreenDemoProject</string>
+    <string name="internet_connectivity_failure">No Internet Connection</string>
+    <string name="login">LOGIN</string>
+    <string name="login_button">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_text">If your are not already a\nuser on our site,click\nthe button below to\ncreate an account.</string>
+    <string name="forgot_your_password">Forgot Your Password ?</string>
+    <string name="click_here_button">Click Here</string>
+    <string name="copy_right">2017 Copy Right Powered by Auctioneer Software</string>
+    <string name="contact_us">Contact Us | Privacy Policy | Terms &amp; Conditions</string>
+    <string name="privacy_policy">Privacy Policy |</string>
+    <string name="terms_amp_condition"><![CDATA[Terms & Condition]]></string>
+    <string name="header">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MCwiaWF0IjoxNDk1NjczODUyfQ.f9aaTe_AlMXemzF1MSB4JNdOeDMkE0OL2-Th2dGn2Lg</string>
+    <string name="device_type">android</string>
+    <string name="device_token">e6u1lwB3EG8:APA91bGTB-PZwDx9jJmQvv_0v1h_rnpKy4jSPR9s72Far2xnf2LckorUyk8NS1Wn-mper7EBzdP8JtFFsWcYLmszxIMmFbmKZmwScQA0mdBNJRBJjcVdvNJ2ZdFkD3Rfvrc8HlQH4Q4c\n</string>
+    <string name="username_error">Please enter Username</string>
+    <string name="password_error">Please enter Password</string>
+</resources>
